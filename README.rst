@@ -18,7 +18,7 @@ someone messages the user and privmesgs).
 === PREVIEW
 -----------
 
-    .. image:: voon.jpg
+    .. image:: https://github.com/asenchi/voon/raw/master/voon.jpg
 
 
 === LICENSE
